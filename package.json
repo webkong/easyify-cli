@@ -1,6 +1,6 @@
 {
   "name": "easyify-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple CLI for scaffolding easyify projects.",
   "preferGlobal": true,
   "bin": {

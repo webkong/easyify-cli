@@ -108,7 +108,7 @@ function run () {
       generate(name, templatePath, to, err => {
         if (err) logger.fatal(err)
         console.log()
-        logger.success('Generated "%s".', name)
+        logger.success('Generated success "%s".', name)
       })
     } else {
       logger.fatal('Local template "%s" not found.', template)
@@ -153,7 +153,7 @@ function downloadAndGenerate (template) {
     generate(name, tmp, to, err => {
       if (err) logger.fatal(err)
       console.log()
-      logger.success('Generated "%s".', name)
+      logger.success('Generated success "%s".', name)
     })
   })
 }
