@@ -24,6 +24,11 @@ Example:
 $ easyify init web my-project
 ```
 
+### Other
+
+[easyify](https://github.com/webkong/easyify)
+[easyify document](https://easyify.webkong.cn)
+[easyify template](https://github.com/easyify)
 
 ### License
 
