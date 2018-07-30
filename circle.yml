@@ -1,4 +1,0 @@
-language: node_js
-machine:
-  node:
-    version: 8
