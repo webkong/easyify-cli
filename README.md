@@ -1,4 +1,7 @@
-# easyify-cli [![Build Status](https://img.shields.io/circleci/project/webkong/easyify-cli/master.svg)](https://circleci.com/gh/webkong/easyify-cli) [![npm package](https://img.shields.io/npm/v/easyify-cli.svg)](https://www.npmjs.com/package/easyify-cli)
+# easyify-cli 
+
+![CircleCI](https://img.shields.io/circleci/project/github/webkong/easyify-cli.svg)[![npm package](https://img.shields.io/npm/v/easyify-cli.svg)](https://www.npmjs.com/package/easyify-cli)![npm](https://img.shields.io/npm/l/easyify-cli.svg)![node](https://img.shields.io/node/v/easyify-cli.svg)
+
 
 A simple CLI for scaffolding easyify projects.
 
