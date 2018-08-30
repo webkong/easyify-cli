@@ -36,10 +36,10 @@ program.on('--help', () => {
   console.log('  Examples:')
   console.log()
   console.log(chalk.gray('    # create a new project with an official template'))
-  console.log('    $ easyify init web my-project')
+  console.log('    $ ey init web my-project')
   console.log()
   console.log(chalk.gray('    # create a new project straight from a github template'))
-  console.log('    $ easyify init username/repo my-project')
+  console.log('    $ ey init username/repo my-project')
   console.log()
 })
 
