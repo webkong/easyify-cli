@@ -15,13 +15,13 @@ $ npm install -g easyify-cli
 ### Usage
 
 ``` bash
-$ easyify init <template-name> <project-name>
+$ easyify/ey init <template-name> <project-name>
 ```
 
 Example:
 
 ``` bash
-$ easyify init web my-project
+$ easyify/ey init web my-project
 ```
 
 ### Other

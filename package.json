@@ -1,12 +1,15 @@
 {
   "name": "easyify-cli",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "A simple CLI for scaffolding easyify projects.",
   "preferGlobal": true,
   "bin": {
     "easyify": "bin/easyify",
     "easyify-init": "bin/easyify-init",
-    "easyify-list": "bin/easyify-list"
+    "easyify-list": "bin/easyify-list",
+    "ey": "bin/ey",
+    "ey-init": "bin/ey-init",
+    "ey-list": "bin/ey-list"
   },
   "repository": {
     "type": "git",
@@ -14,6 +17,8 @@
   },
   "keywords": [
     "easyify",
+    "workflow",
+    "generator",
     "cli",
     "spa"
   ],
@@ -23,8 +28,7 @@
     "url": "https://github.com/webkong/easyify-cli/issues"
   },
   "homepage": "https://github.com/webkong/easyify-cli#readme",
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
     "async": "^2.4.0",
     "chalk": "^2.1.0",
