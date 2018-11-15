@@ -1,6 +1,6 @@
 {
   "name": "easyify-cli",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A simple CLI for scaffolding easyify projects.",
   "preferGlobal": true,
   "bin": {
@@ -32,15 +32,16 @@
   "dependencies": {
     "async": "^2.4.0",
     "chalk": "^2.1.0",
+    "coffee-script": "1.12.7",
     "commander": "^2.9.0",
-    "consolidate": "^0.14.0",
+    "consolidate": "^0.15.1",
     "download-git-repo": "^1.0.1",
     "handlebars": "^4.0.5",
-    "inquirer": "^3.3.0",
+    "inquirer": "^6.2.0",
     "metalsmith": "^2.1.0",
     "minimatch": "^3.0.0",
     "multimatch": "^2.1.0",
-    "ora": "^1.3.0",
+    "ora": "^3.0.0",
     "read-metadata": "^1.0.0",
     "request": "^2.67.0",
     "rimraf": "^2.5.0",
@@ -48,14 +49,13 @@
     "tildify": "^1.2.0",
     "uid": "0.0.2",
     "user-home": "^2.0.0",
-    "validate-npm-package-name": "^3.0.0",
-    "coffee-script": "1.12.7"
+    "validate-npm-package-name": "^3.0.0"
   },
   "devDependencies": {
     "chai": "^4.1.2",
-    "eslint": "^3.19.0",
-    "execa": "^0.8.0",
-    "mocha": "^3.5.3"
+    "eslint": "^5.9.0",
+    "execa": "^1.0.0",
+    "mocha": "^5.2.0"
   },
   "engines": {
     "node": ">=8.0.0"
