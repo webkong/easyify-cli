@@ -16,6 +16,8 @@ $ npm install -g easyify-cli
 
 ``` bash
 $ easyify/ey init <template-name> <project-name>
+
+# <template-name> web/vuejs
 ```
 
 Example:
