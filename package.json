@@ -30,7 +30,7 @@
   "homepage": "https://github.com/webkong/easyify-cli#readme",
   "scripts": {},
   "dependencies": {
-    "async": "^2.4.0",
+    "async": "^3.2.2",
     "chalk": "^2.1.0",
     "coffee-script": "1.12.7",
     "commander": "^2.9.0",
